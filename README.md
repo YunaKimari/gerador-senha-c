@@ -47,7 +47,7 @@ Este projeto está licenciado sob a Licença MIT.
 ## C Password Generator
 A simple C password generator with terminal interface. It allows users to customize passwords with uppercase, lowercase, numbers, and special symbols.
 
-## 🎮 About th project
+## 🎮 About the project
 This project is a random password generator written in C, designed to run in the terminal. It allows users to configure the password length and select which character types to include: uppercase, lowercase, numbers, and 
 special symbols. The program ensures flexibility and security by shuffling characters before assembling passwords and supports generating multiple passwords at once. 
 
