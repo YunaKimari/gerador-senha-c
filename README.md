@@ -12,8 +12,8 @@ minúsculas, números e símbolos especiais. O programa garante flexibilidade e 
 - Shuffle dos caracteres para evitar padrões previsíveis.
 
 ## 📁 Estrutura do projeto
-- gerador.c: Código principal.
-- README.md: Este arquivo (em português e em inglês).
+- `gerador.c`: Código principal.
+- `README.md`: Este arquivo (em português e em inglês).
 
 ## 🚀 Como compilar e executar
 ##### Usando GCC:
@@ -58,8 +58,8 @@ special symbols. The program ensures flexibility and security by shuffling chara
 - Character shuffling to avoid predictable patterns.
 
 ## 📁 Project structure
-- gerador.c: Main code.
-- README.md: This file (in Portuguese and in English).
+- `gerador.c`: Main code.
+- `README.md`: This file (in both Portuguese and English)
 
 ## 🚀 How to compile and run
 ##### Using GCC:
