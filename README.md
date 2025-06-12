@@ -59,7 +59,7 @@ special symbols. The program ensures flexibility and security by shuffling chara
 
 ## 📁 Project structure
 - `gerador.c`: Main code.
-- `README.md`: This file (in both Portuguese and English)
+- `README.md`: This file (in both Portuguese and English).
 
 ## 🚀 How to compile and run
 ##### Using GCC:
