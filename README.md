@@ -1,4 +1,6 @@
-## Gerador de Senhas em C ![C](https://img.shields.io/badge/C-Programming-00599C?logo=c)
+## Gerador de Senhas em C 
+![C](https://img.shields.io/badge/C-Programming-00599C?logo=c)
+
 Um gerador de senhas simples em C com interface de terminal. Permite personalizar a senha com letras maiúsculas, minúsculas, números e símbolos especiais.
 
 ## 🎮 Sobre o projeto
@@ -44,7 +46,9 @@ Este projeto está licenciado sob a Licença MIT.
 
 ---
 
-## C Password Generator ![C](https://img.shields.io/badge/C-Programming-00599C?logo=c)
+## C Password Generator 
+![C](https://img.shields.io/badge/C-Programming-00599C?logo=c)
+
 A simple C password generator with terminal interface. It allows users to customize passwords with uppercase, lowercase, numbers, and special symbols.
 
 ## 🎮 About the project
